@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Telegram_profile</string>
+    <string name="nameOfProfile">Dongollee</string>
+    <string name="profileStatus">Online</string>
+    <string name="floating_action">Floating Action</string>
+    <string name="account">Account</string>
+    <string name="phoneNumber">+012121212</string>
+    <string name="changePhoneNumber">Tap to change phone number</string>
+    <string name="userName">@Dongle.com</string>
+    <string name="userNameText">Username</string>
+    <string name="settingsTitle">settings</string>
+    <string name="chat_settings">chat Settings</string>
+    <string name="privacy_and_security">Privacy And Security</string>
+    <string name="notifications_and_sounds">Notifications and Sounds</string>
+    <string name="bio_profile">Trust the magic of new beginning ❤✨</string>
+    <string name="bio">Bio</string>
+    <string name="data_and_storage">Data and Storage</string>
+    <string name="power_saving">Power Saving</string>
+    <string name="chat_folders">Chat Folders</string>
+    <string name="help">Help</string>
+    <string name="telegram_premium">Telegram Premium</string>
+    <string name="english">English</string>
+    <string name="language">language</string>
+    <string name="devices">Devices</string>
+    <string name="ask_a_question">Ask a Question</string>
+    <string name="telegram_faq">Telegram FAQ</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="telegram_for_ti7a_tech_2023">Telegram For Ti7a Tech 2023</string>
+</resources>
